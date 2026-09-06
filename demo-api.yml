@@ -3,6 +3,7 @@ spring:
     admin:
       client:
         url: http://localhost:1111
+
 management:
   endpoints:
     web:
@@ -10,4 +11,3 @@ management:
         include: "*"
 
 message: "This message from Config Properties"
-  
