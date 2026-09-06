@@ -7,7 +7,7 @@ management:
   endpoints:
     web:
       exposure:
-        inclued: "*"
+        include: "*"
 
 message: "This message from Config Properties"
   
